@@ -1,6 +1,6 @@
-# Dr. Emre Yavuz
+# Dr Emre Yavuz
 
-PhD computational neuroscientist (UCL, spatial navigation) who ships. I build agentic AI and LLM apps for health and behaviour, mostly in TypeScript, Python and R.
+Computational neuroscientist (UCL, spatial navigation) who ships. I build agentic AI and LLM apps for health and behaviour, mostly in TypeScript, Python and R.
 
 🌐 [emreyavuz.vercel.app](https://emreyavuz.vercel.app)
 
